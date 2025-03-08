@@ -15,4 +15,4 @@ A simple C++ console-based restaurant management system that allows customers to
 
 ## How to Run  
 Clone the repository:  
-   git clone https://github.com/HajraRizwan/Restaurant-Management-System.git
+   git clone https://github.com/HajraRizwan/Restaurant_Management_System.git
